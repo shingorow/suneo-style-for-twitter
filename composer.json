@@ -1,0 +1,16 @@
+{
+    "name": "shingo/suneo-style-for-twitter",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Shingo Matsui",
+            "email": "s.matsui@engrowth.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lib\\": "lib/"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+.row {
+    display: flex;
+    margin-bottom: 2rem;;
+}
+
+.row>.label {
+    width: 30%;
+    margin-right: 3rem;
+    font-weight: bold;
+}
+
+label>small {
+    color: #888;
+}
+
+.row>.input {
+    width: 50%;
+}
+
+.row>.input input[type=text],
+.row>.input textarea {
+    width: 60%;
+}
