@@ -1,12 +1,12 @@
 === Suneo Style for Twitter ===
-Contributors: shingorow
-Tags: Gianism, Twitter, SNS
-Requires at least: 5.0
-Tested up to: 5.5
-Stable tag: 0.0.3
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Requires PHP: 7.0
+Contributors: shingorow 
+Tags: Gianism, Twitter, SNS 
+Requires at least: 5.0 
+Tested up to: 5.5 
+Stable tag: 0.0.3 
+License: GPLv2 or later 
+License URI: http://www.gnu.org/licenses/gpl-2.0.html 
+Requires PHP: 7.0 
 
 Gianism に依存するプラグインです。Twitterのログインで条件を指定することができます。
 
